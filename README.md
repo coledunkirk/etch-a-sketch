@@ -1,0 +1,1 @@
+Etch-a-sketch game that uses DOM manipulation.
